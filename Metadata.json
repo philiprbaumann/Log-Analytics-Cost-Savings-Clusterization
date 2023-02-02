@@ -1,0 +1,20 @@
+{
+    "Author": "Philip Baumann",
+    "ContentSize": 7505,
+    "ContentUrl": "https://raw.githubusercontent.com/philiprbaumann/Log-Analytics-Cost-Savings-Clusterization/main/Log-Analytics-Workspace-Clusterization.ps1",
+    "DownloadCount": 1,
+    "Id": "azureautomation/Log-Analytics-Workspace-Clusterization",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 1,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2021-02-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": " This runbook helps users generate cost savings by discovering inefficiencies in their Log Analytics Workspace deployments.",
+    "Title": "Log Analytics Cost Savings Clusterization",
+    "UpdatedDate": "2023-02-01T00:00:00",
+    "Url": "https://github.com/philiprbaumann/Log-Analytics-Cost-Savings-Clusterization",
+    "UserTags": "Powershell, Azure Automation, Log Analytics, Azure Automation Runbooks, Azure Monitor, Log Analytics Workspace"
+}
